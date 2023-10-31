@@ -1,5 +1,5 @@
 {
-  "name": "f8-project-08",
+  "name": "UTH_Project_Ecommerse",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
 }

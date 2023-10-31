@@ -223,7 +223,7 @@ strong {
 
 .container-fluid, .container {
   --grid-gutter-x: 30px;
-  --grid-gutter-y: 0;
+  --grid-gutter-y: 20px;
   width: 1370px;
   margin-left: auto;
   margin-right: auto;
